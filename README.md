@@ -12,6 +12,7 @@
    - Anger management resources
    - Dream analysis feature
    - Exposure therapy AR experiences
+   - Count and limit decisions
 
 3. Nutrition and Sustainable Living
    - Hydroponic gardening guides
